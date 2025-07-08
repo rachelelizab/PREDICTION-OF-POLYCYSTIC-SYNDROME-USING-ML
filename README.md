@@ -82,6 +82,6 @@ MIT License – feel free to fork, modify, and use for educational purposes.
 ---
 
 ## 🙋‍♀️ Author
-**Roopashree R.**  
+**RACHEL ELIZABETH JOY**  
 💼 2026 CSE Undergrad  
-🌐 [GitHub](https://github.com/roopashreerangaswamy) | 🔗 [LinkedIn](https://www.linkedin.com/in/roopashree-rangaswamy)
+🔗 [LinkedIn](https://www.linkedin.com/in/rachel-elizabeth-joy-6b6aa5215?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BYVHnBHn4R2yC5fISIcQ1EA%3D%3D)
