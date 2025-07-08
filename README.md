@@ -60,7 +60,7 @@ A machine learning web app that predicts the likelihood of Polycystic Ovary Synd
 
 ## 💻 Run Locally
 ```bash
-git clone https://github.com/roopashreerangaswamy/pcospredictionwebapp.git
+git clone https://github.com/rachelelizab/pcospredictionwebapp.git
 cd pcospredictionwebapp
 pip install -r requirements.txt
 streamlit run pcospredict.py
